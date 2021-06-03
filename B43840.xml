@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jack the plough-lads lamentation his master has forsaken the plough and the cart, which grieves poor Iack unto the heart, for night and day he doth sorely complain, and doth wish that his master would come home again.</title>
+            <author>Robins, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43840</idno><idno type="EEBO-CITATION">625106316</idno>
+  <idno type="VID">211258</idno>
+  <idno type="EEBO-PROQUEST">2240884231</idno>
+  
+            <idno type="OCLC"> 625106316</idno>
+            <idno type="OCLC">ocn 625106316</idno>
+            <idno type="STC">Wing R1650A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211258)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2968:19[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jack the plough-lads lamentation his master has forsaken the plough and the cart, which grieves poor Iack unto the heart, for night and day he doth sorely complain, and doth wish that his master would come home again.</title>
+                  <author>Robins, Thomas.</author>
+               </titleStmt>
+               <extent>1 folded sheet ([2] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Burton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Signed at end: T.R.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Author's name suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: faint print with slight loss of text.</note>
+                  <note>"To the tune of, Prentices fuddle no more."</note>
+                  <note>Item 26 of 32 at reel 2968:19.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:211258:1"/>
+            <head>
+               <hi>JACK</hi> the Plough-Lads <hi>LAMENTATION:</hi>
+            </head>
+            <argument>
+               <lg>
+                  <l>His Master has forsaken the Plough and the Cart,</l>
+                  <l>Which grieves poor <hi>IACK</hi> unto the heart,</l>
+                  <l>For night and day he doth sorely complain,</l>
+                  <l>And doth wish that his Master would come home again.</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, <hi>Prentices fuddle no more.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>
+                     <hi>GEntlemen, Gentlemen,</hi> listen to my Ditty,</l>
+                  <l>and a prety new siory I to you will sing,</l>
+                  <l>No harm I do mean to Town nor to City;</l>
+                  <l>But I wish us good tydings to come this <hi>Spring:</hi>
+                  </l>
+                  <l>Or he that has most will soon have but little.</l>
+                  <l>Poor <hi>England</hi> is gotten to such a mad strain,</l>
+                  <l>Rich <hi>jack</hi> with poor Gill may walk to the <hi>Spittle.</hi>
+                  </l>
+                  <l>
+                     <hi>To pray for good tydings to come o're the main.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For I am a poore <hi>Plough-lad,</hi> and in great distresse</l>
+                  <l>My Master is gone alas! what shall I do,</l>
+                  <l>And I a poor Servant here sorely opprest,</l>
+                  <l>Great loads and taxations I am brought unto;</l>
+                  <l>Yet ou't I livy well as many can tell,</l>
+                  <l>My land in good <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>lage my self to maintain;</l>
+                  <l>Now every <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>un threatens me for to pillage,</l>
+                  <l>
+                     <hi>But I would that my Master would come home again.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Gentlemen, Gentlemen,</hi> I could well think on it,</l>
+                  <l>If that my Master would come home again,</l>
+                  <l>Though it may be there is some would look sadly on it,</l>
+                  <l>Yet he that is honest would never complain:</l>
+                  <l>A Servant thats true, his joys would renew;</l>
+                  <l>But he that is rotten be sure would complain,</l>
+                  <l>But if it were faulty, it were best to be packing.</l>
+                  <l>
+                     <hi>If that my Master should come home again.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Countrey-man, Cuntrey-man,</hi> that hears my <hi>Ditty</hi>
+                  </l>
+                  <l>Lissen unto me, mark what I shall say,</l>
+                  <l>Ther's no honest man in Town nor in Citty,</l>
+                  <l>But if he be bound then he must obey:</l>
+                  <l>His gold and his money he must not spare,</l>
+                  <l>The Cause of poor <hi>England</hi> for to maintain,</l>
+                  <l>And the wéeping-crosse may sall to his share,</l>
+                  <l>
+                     <hi>But I would that my Master would come home agai<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Yeomandry, Yeomandry,</hi> to you I call,</l>
+                  <l>Lissen unto me as well as the rest;</l>
+                  <l>Your lands and your livings be they great or small,</l>
+                  <l>Your fortune's to pay here as well as the rest:</l>
+                  <l>Though Canons be roaring, and Bullets be flying,</l>
+                  <l>And legs and Armes doth fly in the main,</l>
+                  <l>Men still must stand to it and never fear dying.</l>
+                  <l>
+                     <hi>But I would that my master would come home.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:211258:1"/>
+               <head>The second part,</head>
+               <opener>To the same Tune.</opener>
+               <p>
+                  <figure/>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>ANd as for us Plough-men as well as the rest,</l>
+                  <l>Much sorrow comes to us: <hi>yet for us now pray,</hi>
+                  </l>
+                  <l>We do not withstand, but must pay with the best,</l>
+                  <l>If for it we work, I say, both night and day:</l>
+                  <l>To the Plough and Cart with a heavy heart,</l>
+                  <l>To stir up our ground, and to save our Grain;</l>
+                  <l>So small is our share that fals to our part,</l>
+                  <l>
+                     <hi>Would God that my Master would come home again.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thus like to the <hi>Ant</hi> and the painful <hi>Bee.</hi>
+                  </l>
+                  <l>We labor and toyl all the days of our life,</l>
+                  <l>Though small to be got, we must give a great fee,</l>
+                  <l>Nay, I could say more, but I love no strife:</l>
+                  <l>Yet few there be, but may understand</l>
+                  <l>The truth of my Ditty why I do complain:</l>
+                  <l>Yet I wish true Peace would pity this Land,</l>
+                  <l>
+                     <hi>Would God that my Master would come home again,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And now for all <hi>Trades-men</hi> that lives in the City,</l>
+                  <l>I wish you good fortune as well as the rest;</l>
+                  <l>I pray you consider well of this my Ditty,</l>
+                  <l>And th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n you may see who is the most opprest:</l>
+                  <l>For we with hard labor our money do get,</l>
+                  <l>With toyling and moyling in sorrow and pain,</l>
+                  <l>No sooner we have it but from us irs fet.</l>
+                  <l>
+                     <hi>But I wou<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d thus my Mast<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r would come home again.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O my Master is gone, and my Mistris too,</l>
+                  <l>And I am despised by every Clown.</l>
+                  <l>My sorrows increase, alas! what shall I do,</l>
+                  <l>No pleasure I finde in City nor Town:</l>
+                  <l>For I do lament, and sorely repent,</l>
+                  <l>The losse of my Master it will be my hane</l>
+                  <l>Though some do rejoyce, I am discontent</l>
+                  <l>
+                     <hi>Would God that my Master would come home again.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And now to conclude, and end this my Ditty,</l>
+                  <l>The truth of my minde I here have made known,</l>
+                  <l>All honest Plough-men in Town or in City,</l>
+                  <l>May well understand why I make this mone:</l>
+                  <l>For my Master i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fled, and Love banished,</l>
+                  <l>Small truth in this world I see for to rain,</l>
+                  <l>No pleasure I find at beonor at boord,</l>
+                  <l>
+                     <hi>Vntil that my Master doth come home again.</hi>
+                  </l>
+               </lg>
+            </div>
+            <closer>
+               <signed>T.R.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Burton.</hi> 1654.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
